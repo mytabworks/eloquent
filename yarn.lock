@@ -2757,10 +2757,10 @@ ieee754@^1.1.13, ieee754@^1.1.4:
   resolved "https://registry.yarnpkg.com/ieee754/-/ieee754-1.2.1.tgz#8eb7a10a63fff25d15a57b001586d177d1b0d352"
   integrity sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA==
 
-illusionjs@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/illusionjs/-/illusionjs-1.0.0.tgz#850c4dc26b5d3e6eb186dfe3394d7fb70ae24caa"
-  integrity sha512-JI/xcQ7UDfKZMrrVZwVPRTbOEMI4NU/+cYvo2R0+28MI43X/8agevdgj8oKNIlUMRHxpNZLfq3oj9PckaRoGTA==
+illusionjs@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/illusionjs/-/illusionjs-1.0.1.tgz#665fbf5e85968a4af89ddd9a7a65e6c104ed3f02"
+  integrity sha512-tPPLB+Jb7UVjXsmHfFeZPawZorqIeT1cjsLu6cl12kD1XyOd4J8LE7upT4mwYeo+/kgu/VAqhnyaZPgaXaOqLA==
 
 import-fresh@^2.0.0:
   version "2.0.0"

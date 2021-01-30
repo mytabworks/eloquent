@@ -1,6 +1,6 @@
 {
   "name": "eloquents",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "it is a object relational mapping for typeorm extension",
   "main": "dist/index.js",
   "source": "src/eloquent/index.ts",
@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/mytabworks/eloquent#readme",
   "dependencies": {
-    "illusionjs": "^1.0.0"
+    "illusionjs": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^14.14.22",
