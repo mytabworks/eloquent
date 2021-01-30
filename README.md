@@ -1,2 +1,2 @@
-# eloquent
-it is a oriented relational object for nodejs
+# eloquents
+it is a oriented relational object extended for [`typeorm`](https://typeorm.io/#/)
